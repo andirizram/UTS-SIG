@@ -1,0 +1,24 @@
+body{
+background-color: #bcbc38;
+}
+h3{
+color: #ffffff;
+}
+.container{
+    
+}
+
+button {
+    color: #1D9AF2;
+    background-color: #292D3E;
+    border: 2px solid #1D9AF2;
+    border-radius: 5px;
+    padding: 0 15px;
+    cursor: pointer;
+    height: 32px;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+}
+button:hover {
+    transform: scale(0.8); 
+}
